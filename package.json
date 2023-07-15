@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "astro-strata",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "^3.7.2",
-    "astro": "^2.8.3"
+    "@astrojs/vercel": "^3.5.0",
+    "astro": "^2.6.1"
   }
 }
